@@ -4,9 +4,7 @@ import './Pharagraph.css'
 
 
 const Pharagraphs = () => {
-    return (
-        
-        
+    return ( 
         <div className="container">
             <div className="row">
                 <div className="col">

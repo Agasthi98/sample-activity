@@ -1,5 +1,3 @@
-
-import './App.css';
 import Title from './components/Title/Title';
 import Pharagraphs from './components/Pharagraph/Pharagraph';
 
